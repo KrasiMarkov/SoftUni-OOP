@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomRandomList\bin\Debug\netcoreapp3.0\CustomRandomList.exe
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomRandomList\bin\Debug\netcoreapp3.0\CustomRandomList.deps.json
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomRandomList\bin\Debug\netcoreapp3.0\CustomRandomList.runtimeconfig.json
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomRandomList\bin\Debug\netcoreapp3.0\CustomRandomList.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomRandomList\bin\Debug\netcoreapp3.0\CustomRandomList.dll
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomRandomList\bin\Debug\netcoreapp3.0\CustomRandomList.pdb
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomRandomList\obj\Debug\netcoreapp3.0\CustomRandomList.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomRandomList\obj\Debug\netcoreapp3.0\CustomRandomList.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomRandomList\obj\Debug\netcoreapp3.0\CustomRandomList.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomRandomList\obj\Debug\netcoreapp3.0\CustomRandomList.dll
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomRandomList\obj\Debug\netcoreapp3.0\CustomRandomList.pdb
