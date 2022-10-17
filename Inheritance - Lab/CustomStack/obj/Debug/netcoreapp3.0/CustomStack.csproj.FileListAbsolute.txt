@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.0\CustomStack.exe
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.0\CustomStack.deps.json
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.0\CustomStack.runtimeconfig.json
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.0\CustomStack.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.0\CustomStack.dll
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.0\CustomStack.pdb
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.0\CustomStack.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.0\CustomStack.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.0\CustomStack.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.0\CustomStack.dll
+C:\Users\Krasi\source\repos\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.0\CustomStack.pdb
