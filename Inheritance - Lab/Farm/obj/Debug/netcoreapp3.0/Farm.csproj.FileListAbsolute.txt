@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Inheritance - Lab\Farm\bin\Debug\netcoreapp3.0\Farm.exe
+C:\Users\Krasi\source\repos\Inheritance - Lab\Farm\bin\Debug\netcoreapp3.0\Farm.deps.json
+C:\Users\Krasi\source\repos\Inheritance - Lab\Farm\bin\Debug\netcoreapp3.0\Farm.runtimeconfig.json
+C:\Users\Krasi\source\repos\Inheritance - Lab\Farm\bin\Debug\netcoreapp3.0\Farm.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Inheritance - Lab\Farm\bin\Debug\netcoreapp3.0\Farm.dll
+C:\Users\Krasi\source\repos\Inheritance - Lab\Farm\bin\Debug\netcoreapp3.0\Farm.pdb
+C:\Users\Krasi\source\repos\Inheritance - Lab\Farm\obj\Debug\netcoreapp3.0\Farm.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Inheritance - Lab\Farm\obj\Debug\netcoreapp3.0\Farm.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Inheritance - Lab\Farm\obj\Debug\netcoreapp3.0\Farm.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Inheritance - Lab\Farm\obj\Debug\netcoreapp3.0\Farm.dll
+C:\Users\Krasi\source\repos\Inheritance - Lab\Farm\obj\Debug\netcoreapp3.0\Farm.pdb
