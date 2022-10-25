@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Inheritance - Exercise nov\Players and Monsters\bin\Debug\netcoreapp3.0\Players and Monsters.exe
+C:\Users\Krasi\source\repos\Inheritance - Exercise nov\Players and Monsters\bin\Debug\netcoreapp3.0\Players and Monsters.deps.json
+C:\Users\Krasi\source\repos\Inheritance - Exercise nov\Players and Monsters\bin\Debug\netcoreapp3.0\Players and Monsters.runtimeconfig.json
+C:\Users\Krasi\source\repos\Inheritance - Exercise nov\Players and Monsters\bin\Debug\netcoreapp3.0\Players and Monsters.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Inheritance - Exercise nov\Players and Monsters\bin\Debug\netcoreapp3.0\Players and Monsters.dll
+C:\Users\Krasi\source\repos\Inheritance - Exercise nov\Players and Monsters\bin\Debug\netcoreapp3.0\Players and Monsters.pdb
+C:\Users\Krasi\source\repos\Inheritance - Exercise nov\Players and Monsters\obj\Debug\netcoreapp3.0\Players and Monsters.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Inheritance - Exercise nov\Players and Monsters\obj\Debug\netcoreapp3.0\Players and Monsters.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Inheritance - Exercise nov\Players and Monsters\obj\Debug\netcoreapp3.0\Players and Monsters.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Inheritance - Exercise nov\Players and Monsters\obj\Debug\netcoreapp3.0\Players and Monsters.dll
+C:\Users\Krasi\source\repos\Inheritance - Exercise nov\Players and Monsters\obj\Debug\netcoreapp3.0\Players and Monsters.pdb
