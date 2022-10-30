@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.0\PersonsInfo.exe
+C:\Users\Krasi\source\repos\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.0\PersonsInfo.deps.json
+C:\Users\Krasi\source\repos\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.0\PersonsInfo.runtimeconfig.json
+C:\Users\Krasi\source\repos\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.0\PersonsInfo.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.0\PersonsInfo.dll
+C:\Users\Krasi\source\repos\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.0\PersonsInfo.pdb
+C:\Users\Krasi\source\repos\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.0\PersonsInfo.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.0\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.0\PersonsInfo.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.0\PersonsInfo.dll
+C:\Users\Krasi\source\repos\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.0\PersonsInfo.pdb
