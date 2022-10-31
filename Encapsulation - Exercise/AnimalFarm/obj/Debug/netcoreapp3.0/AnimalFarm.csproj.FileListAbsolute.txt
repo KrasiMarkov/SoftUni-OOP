@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.exe
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.deps.json
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.runtimeconfig.json
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.dll
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.pdb
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.dll
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.pdb
