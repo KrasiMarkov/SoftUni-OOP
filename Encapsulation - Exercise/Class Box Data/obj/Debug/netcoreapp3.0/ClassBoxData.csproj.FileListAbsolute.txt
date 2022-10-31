@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.0\ClassBoxData.exe
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.0\ClassBoxData.deps.json
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.0\ClassBoxData.runtimeconfig.json
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.0\ClassBoxData.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.0\ClassBoxData.dll
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.0\ClassBoxData.pdb
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.0\ClassBoxData.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.0\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.0\ClassBoxData.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.0\ClassBoxData.dll
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.0\ClassBoxData.pdb
