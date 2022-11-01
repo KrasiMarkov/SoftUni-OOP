@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.exe
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.deps.json
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.runtimeconfig.json
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.dll
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.0\PizzaCalories.pdb
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.dll
+C:\Users\Krasi\source\repos\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.0\PizzaCalories.pdb
