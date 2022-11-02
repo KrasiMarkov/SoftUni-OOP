@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Shapes\bin\Debug\netcoreapp3.0\Shapes.exe
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Shapes\bin\Debug\netcoreapp3.0\Shapes.deps.json
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Shapes\bin\Debug\netcoreapp3.0\Shapes.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Shapes\bin\Debug\netcoreapp3.0\Shapes.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Shapes\bin\Debug\netcoreapp3.0\Shapes.dll
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Shapes\bin\Debug\netcoreapp3.0\Shapes.pdb
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Shapes\obj\Debug\netcoreapp3.0\Shapes.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Shapes\obj\Debug\netcoreapp3.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Shapes\obj\Debug\netcoreapp3.0\Shapes.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Shapes\obj\Debug\netcoreapp3.0\Shapes.dll
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Shapes\obj\Debug\netcoreapp3.0\Shapes.pdb

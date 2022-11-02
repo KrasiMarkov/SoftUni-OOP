@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Cars\bin\Debug\netcoreapp3.0\Cars.exe
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Cars\bin\Debug\netcoreapp3.0\Cars.deps.json
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Cars\bin\Debug\netcoreapp3.0\Cars.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Cars\bin\Debug\netcoreapp3.0\Cars.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Cars\bin\Debug\netcoreapp3.0\Cars.dll
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Cars\bin\Debug\netcoreapp3.0\Cars.pdb
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Cars\obj\Debug\netcoreapp3.0\Cars.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Cars\obj\Debug\netcoreapp3.0\Cars.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Cars\obj\Debug\netcoreapp3.0\Cars.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Cars\obj\Debug\netcoreapp3.0\Cars.dll
+C:\Users\Krasi\source\repos\Lab_Interfaces and Abstraction\Cars\obj\Debug\netcoreapp3.0\Cars.pdb
