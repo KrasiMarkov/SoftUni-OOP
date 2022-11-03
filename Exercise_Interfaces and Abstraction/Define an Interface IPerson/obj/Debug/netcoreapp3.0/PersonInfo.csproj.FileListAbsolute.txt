@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Define an Interface IPerson\bin\Debug\netcoreapp3.0\PersonInfo.exe
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Define an Interface IPerson\bin\Debug\netcoreapp3.0\PersonInfo.deps.json
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Define an Interface IPerson\bin\Debug\netcoreapp3.0\PersonInfo.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Define an Interface IPerson\bin\Debug\netcoreapp3.0\PersonInfo.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Define an Interface IPerson\bin\Debug\netcoreapp3.0\PersonInfo.dll
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Define an Interface IPerson\bin\Debug\netcoreapp3.0\PersonInfo.pdb
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Define an Interface IPerson\obj\Debug\netcoreapp3.0\PersonInfo.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Define an Interface IPerson\obj\Debug\netcoreapp3.0\PersonInfo.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Define an Interface IPerson\obj\Debug\netcoreapp3.0\PersonInfo.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Define an Interface IPerson\obj\Debug\netcoreapp3.0\PersonInfo.dll
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Define an Interface IPerson\obj\Debug\netcoreapp3.0\PersonInfo.pdb
