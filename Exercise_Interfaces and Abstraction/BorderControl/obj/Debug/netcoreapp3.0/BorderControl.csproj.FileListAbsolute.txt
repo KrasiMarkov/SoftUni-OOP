@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.exe
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.deps.json
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.dll
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\BorderControl\bin\Debug\netcoreapp3.0\BorderControl.pdb
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.dll
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\BorderControl\obj\Debug\netcoreapp3.0\BorderControl.pdb
