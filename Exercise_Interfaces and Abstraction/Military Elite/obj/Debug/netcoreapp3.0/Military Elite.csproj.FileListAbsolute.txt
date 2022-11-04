@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Military Elite\bin\Debug\netcoreapp3.0\Military Elite.exe
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Military Elite\bin\Debug\netcoreapp3.0\Military Elite.deps.json
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Military Elite\bin\Debug\netcoreapp3.0\Military Elite.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Military Elite\bin\Debug\netcoreapp3.0\Military Elite.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Military Elite\bin\Debug\netcoreapp3.0\Military Elite.dll
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Military Elite\bin\Debug\netcoreapp3.0\Military Elite.pdb
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Military Elite\obj\Debug\netcoreapp3.0\Military Elite.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Military Elite\obj\Debug\netcoreapp3.0\Military Elite.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Military Elite\obj\Debug\netcoreapp3.0\Military Elite.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Military Elite\obj\Debug\netcoreapp3.0\Military Elite.dll
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Military Elite\obj\Debug\netcoreapp3.0\Military Elite.pdb
