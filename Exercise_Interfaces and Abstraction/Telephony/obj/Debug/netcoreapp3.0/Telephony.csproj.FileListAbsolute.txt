@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Telephony\bin\Debug\netcoreapp3.0\Telephony.exe
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Telephony\bin\Debug\netcoreapp3.0\Telephony.deps.json
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Telephony\bin\Debug\netcoreapp3.0\Telephony.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Telephony\bin\Debug\netcoreapp3.0\Telephony.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Telephony\bin\Debug\netcoreapp3.0\Telephony.dll
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Telephony\bin\Debug\netcoreapp3.0\Telephony.pdb
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Telephony\obj\Debug\netcoreapp3.0\Telephony.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Telephony\obj\Debug\netcoreapp3.0\Telephony.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Telephony\obj\Debug\netcoreapp3.0\Telephony.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Telephony\obj\Debug\netcoreapp3.0\Telephony.dll
+C:\Users\Krasi\source\repos\Exercise_Interfaces and Abstraction_quarantine\Telephony\obj\Debug\netcoreapp3.0\Telephony.pdb
