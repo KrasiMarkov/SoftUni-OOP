@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab_Polymorphism\Operations\bin\Debug\netcoreapp3.0\Operations.exe
+C:\Users\Krasi\source\repos\Lab_Polymorphism\Operations\bin\Debug\netcoreapp3.0\Operations.deps.json
+C:\Users\Krasi\source\repos\Lab_Polymorphism\Operations\bin\Debug\netcoreapp3.0\Operations.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab_Polymorphism\Operations\bin\Debug\netcoreapp3.0\Operations.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab_Polymorphism\Operations\bin\Debug\netcoreapp3.0\Operations.dll
+C:\Users\Krasi\source\repos\Lab_Polymorphism\Operations\bin\Debug\netcoreapp3.0\Operations.pdb
+C:\Users\Krasi\source\repos\Lab_Polymorphism\Operations\obj\Debug\netcoreapp3.0\Operations.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab_Polymorphism\Operations\obj\Debug\netcoreapp3.0\Operations.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab_Polymorphism\Operations\obj\Debug\netcoreapp3.0\Operations.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab_Polymorphism\Operations\obj\Debug\netcoreapp3.0\Operations.dll
+C:\Users\Krasi\source\repos\Lab_Polymorphism\Operations\obj\Debug\netcoreapp3.0\Operations.pdb
