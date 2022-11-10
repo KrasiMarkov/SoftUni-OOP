@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.exe
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.deps.json
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.runtimeconfig.json
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.dll
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.0\Vehicles.pdb
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.dll
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.0\Vehicles.pdb
