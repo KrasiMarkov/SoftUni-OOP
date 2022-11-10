@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.0\Raiding.exe
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.0\Raiding.deps.json
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.0\Raiding.runtimeconfig.json
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.0\Raiding.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.0\Raiding.dll
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.0\Raiding.pdb
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.0\Raiding.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.0\Raiding.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.0\Raiding.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.0\Raiding.dll
+C:\Users\Krasi\source\repos\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.0\Raiding.pdb
