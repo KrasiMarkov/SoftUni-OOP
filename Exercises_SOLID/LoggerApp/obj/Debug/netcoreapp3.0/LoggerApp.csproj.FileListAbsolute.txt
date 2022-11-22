@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercises_SOLID\LoggerApp\bin\Debug\netcoreapp3.0\LoggerApp.exe
+C:\Users\Krasi\source\repos\Exercises_SOLID\LoggerApp\bin\Debug\netcoreapp3.0\LoggerApp.deps.json
+C:\Users\Krasi\source\repos\Exercises_SOLID\LoggerApp\bin\Debug\netcoreapp3.0\LoggerApp.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercises_SOLID\LoggerApp\bin\Debug\netcoreapp3.0\LoggerApp.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercises_SOLID\LoggerApp\bin\Debug\netcoreapp3.0\LoggerApp.dll
+C:\Users\Krasi\source\repos\Exercises_SOLID\LoggerApp\bin\Debug\netcoreapp3.0\LoggerApp.pdb
+C:\Users\Krasi\source\repos\Exercises_SOLID\LoggerApp\obj\Debug\netcoreapp3.0\LoggerApp.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercises_SOLID\LoggerApp\obj\Debug\netcoreapp3.0\LoggerApp.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercises_SOLID\LoggerApp\obj\Debug\netcoreapp3.0\LoggerApp.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercises_SOLID\LoggerApp\obj\Debug\netcoreapp3.0\LoggerApp.dll
+C:\Users\Krasi\source\repos\Exercises_SOLID\LoggerApp\obj\Debug\netcoreapp3.0\LoggerApp.pdb
