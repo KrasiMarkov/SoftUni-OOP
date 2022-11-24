@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab_Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.0\AuthorProblem.exe
+C:\Users\Krasi\source\repos\Lab_Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.0\AuthorProblem.deps.json
+C:\Users\Krasi\source\repos\Lab_Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.0\AuthorProblem.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab_Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.0\AuthorProblem.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab_Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.0\AuthorProblem.dll
+C:\Users\Krasi\source\repos\Lab_Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.0\AuthorProblem.pdb
+C:\Users\Krasi\source\repos\Lab_Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.0\AuthorProblem.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab_Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.0\AuthorProblem.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab_Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.0\AuthorProblem.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab_Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.0\AuthorProblem.dll
+C:\Users\Krasi\source\repos\Lab_Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.0\AuthorProblem.pdb
