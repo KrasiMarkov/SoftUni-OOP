@@ -1,0 +1,11 @@
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.0\CommandPattern.exe
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.0\CommandPattern.deps.json
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.0\CommandPattern.runtimeconfig.json
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.0\CommandPattern.runtimeconfig.dev.json
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.0\CommandPattern.dll
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\CommandPattern\bin\Debug\netcoreapp3.0\CommandPattern.pdb
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.0\CommandPattern.csprojAssemblyReference.cache
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.0\CommandPattern.AssemblyInfo.cs
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.0\CommandPattern.dll
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\CommandPattern\obj\Debug\netcoreapp3.0\CommandPattern.pdb
