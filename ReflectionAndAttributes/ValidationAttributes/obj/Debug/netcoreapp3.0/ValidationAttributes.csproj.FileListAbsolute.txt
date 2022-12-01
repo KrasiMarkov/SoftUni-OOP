@@ -1,0 +1,11 @@
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.0\ValidationAttributes.exe
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.0\ValidationAttributes.deps.json
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.0\ValidationAttributes.runtimeconfig.json
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.0\ValidationAttributes.runtimeconfig.dev.json
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.0\ValidationAttributes.dll
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\ValidationAttributes\bin\Debug\netcoreapp3.0\ValidationAttributes.pdb
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.0\ValidationAttributes.csprojAssemblyReference.cache
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.0\ValidationAttributes.AssemblyInfoInputs.cache
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.0\ValidationAttributes.AssemblyInfo.cs
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.0\ValidationAttributes.dll
+C:\Users\Krasi\Desktop\ReflectionAndAttributes\ValidationAttributes\obj\Debug\netcoreapp3.0\ValidationAttributes.pdb
