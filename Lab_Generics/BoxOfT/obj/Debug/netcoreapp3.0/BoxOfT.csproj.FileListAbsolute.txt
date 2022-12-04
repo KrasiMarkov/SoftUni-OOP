@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab_Generics\BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.exe
+C:\Users\Krasi\source\repos\Lab_Generics\BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.deps.json
+C:\Users\Krasi\source\repos\Lab_Generics\BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab_Generics\BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab_Generics\BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.dll
+C:\Users\Krasi\source\repos\Lab_Generics\BoxOfT\bin\Debug\netcoreapp3.0\BoxOfT.pdb
+C:\Users\Krasi\source\repos\Lab_Generics\BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab_Generics\BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab_Generics\BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab_Generics\BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.dll
+C:\Users\Krasi\source\repos\Lab_Generics\BoxOfT\obj\Debug\netcoreapp3.0\BoxOfT.pdb
