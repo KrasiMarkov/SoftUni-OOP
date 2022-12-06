@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Lab_Generics\GenericArrayCreator\bin\Debug\netcoreapp3.0\GenericArrayCreator.exe
+C:\Users\Krasi\source\repos\Lab_Generics\GenericArrayCreator\bin\Debug\netcoreapp3.0\GenericArrayCreator.deps.json
+C:\Users\Krasi\source\repos\Lab_Generics\GenericArrayCreator\bin\Debug\netcoreapp3.0\GenericArrayCreator.runtimeconfig.json
+C:\Users\Krasi\source\repos\Lab_Generics\GenericArrayCreator\bin\Debug\netcoreapp3.0\GenericArrayCreator.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Lab_Generics\GenericArrayCreator\bin\Debug\netcoreapp3.0\GenericArrayCreator.dll
+C:\Users\Krasi\source\repos\Lab_Generics\GenericArrayCreator\bin\Debug\netcoreapp3.0\GenericArrayCreator.pdb
+C:\Users\Krasi\source\repos\Lab_Generics\GenericArrayCreator\obj\Debug\netcoreapp3.0\GenericArrayCreator.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Lab_Generics\GenericArrayCreator\obj\Debug\netcoreapp3.0\GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Lab_Generics\GenericArrayCreator\obj\Debug\netcoreapp3.0\GenericArrayCreator.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Lab_Generics\GenericArrayCreator\obj\Debug\netcoreapp3.0\GenericArrayCreator.dll
+C:\Users\Krasi\source\repos\Lab_Generics\GenericArrayCreator\obj\Debug\netcoreapp3.0\GenericArrayCreator.pdb
