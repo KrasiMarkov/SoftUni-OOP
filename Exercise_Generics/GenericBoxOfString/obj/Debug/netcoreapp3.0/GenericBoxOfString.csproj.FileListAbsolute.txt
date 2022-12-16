@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxOfString\bin\Debug\netcoreapp3.0\GenericBoxOfString.exe
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxOfString\bin\Debug\netcoreapp3.0\GenericBoxOfString.deps.json
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxOfString\bin\Debug\netcoreapp3.0\GenericBoxOfString.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxOfString\bin\Debug\netcoreapp3.0\GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxOfString\bin\Debug\netcoreapp3.0\GenericBoxOfString.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxOfString\bin\Debug\netcoreapp3.0\GenericBoxOfString.pdb
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxOfString\obj\Debug\netcoreapp3.0\GenericBoxOfString.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxOfString\obj\Debug\netcoreapp3.0\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxOfString\obj\Debug\netcoreapp3.0\GenericBoxOfString.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxOfString\obj\Debug\netcoreapp3.0\GenericBoxOfString.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxOfString\obj\Debug\netcoreapp3.0\GenericBoxOfString.pdb
