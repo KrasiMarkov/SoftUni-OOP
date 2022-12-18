@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxОfInteger\bin\Debug\netcoreapp3.0\GenericBoxОfInteger.exe
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxОfInteger\bin\Debug\netcoreapp3.0\GenericBoxОfInteger.deps.json
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxОfInteger\bin\Debug\netcoreapp3.0\GenericBoxОfInteger.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxОfInteger\bin\Debug\netcoreapp3.0\GenericBoxОfInteger.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxОfInteger\bin\Debug\netcoreapp3.0\GenericBoxОfInteger.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxОfInteger\bin\Debug\netcoreapp3.0\GenericBoxОfInteger.pdb
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxОfInteger\obj\Debug\netcoreapp3.0\GenericBoxОfInteger.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxОfInteger\obj\Debug\netcoreapp3.0\GenericBoxОfInteger.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxОfInteger\obj\Debug\netcoreapp3.0\GenericBoxОfInteger.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxОfInteger\obj\Debug\netcoreapp3.0\GenericBoxОfInteger.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericBoxОfInteger\obj\Debug\netcoreapp3.0\GenericBoxОfInteger.pdb
