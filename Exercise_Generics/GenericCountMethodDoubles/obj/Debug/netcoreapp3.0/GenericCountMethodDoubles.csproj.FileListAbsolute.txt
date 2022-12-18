@@ -1,0 +1,14 @@
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.0\GenericBoxOfString.exe
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.0\GenericCountMethodDoubles.exe
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.0\GenericCountMethodDoubles.deps.json
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.0\GenericCountMethodDoubles.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.0\GenericCountMethodDoubles.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.0\GenericCountMethodDoubles.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.0\GenericCountMethodDoubles.pdb
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.0\GenericBoxOfString.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\bin\Debug\netcoreapp3.0\GenericBoxOfString.pdb
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.0\GenericCountMethodDoubles.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.0\GenericCountMethodDoubles.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.0\GenericCountMethodDoubles.csproj.CopyComplete
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.0\GenericCountMethodDoubles.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericCountMethodDoubles\obj\Debug\netcoreapp3.0\GenericCountMethodDoubles.pdb

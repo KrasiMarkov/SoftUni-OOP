@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "GenericCountMethodDoubles/1.0.0": {
+        "dependencies": {
+          "GenericBoxOfString": "1.0.0"
+        },
+        "runtime": {
+          "GenericCountMethodDoubles.dll": {}
+        }
+      },
+      "GenericBoxOfString/1.0.0": {
+        "runtime": {
+          "GenericBoxOfString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericCountMethodDoubles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GenericBoxOfString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
