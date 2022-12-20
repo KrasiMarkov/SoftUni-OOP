@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "GenericSwapMethodIntegers/1.0.0": {
+        "dependencies": {
+          "GenericBoxОfInteger": "1.0.0"
+        },
+        "runtime": {
+          "GenericSwapMethodIntegers.dll": {}
+        }
+      },
+      "GenericBoxОfInteger/1.0.0": {
+        "runtime": {
+          "GenericBoxОfInteger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericSwapMethodIntegers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GenericBoxОfInteger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

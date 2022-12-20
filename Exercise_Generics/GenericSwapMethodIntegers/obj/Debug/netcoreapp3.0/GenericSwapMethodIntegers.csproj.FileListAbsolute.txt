@@ -1,0 +1,15 @@
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericBoxОfInteger.exe
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericSwapMethodIntegers.exe
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericSwapMethodIntegers.deps.json
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericSwapMethodIntegers.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericSwapMethodIntegers.pdb
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericBoxОfInteger.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericBoxОfInteger.pdb
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.0\GenericSwapMethodIntegers.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.0\GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.0\GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.0\GenericSwapMethodIntegers.csproj.CopyComplete
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.0\GenericSwapMethodIntegers.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.0\GenericSwapMethodIntegers.pdb
