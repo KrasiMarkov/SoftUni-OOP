@@ -1,0 +1,15 @@
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\bin\Debug\netcoreapp3.0\Tuple.exe
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\bin\Debug\netcoreapp3.0\Threeuple.exe
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\bin\Debug\netcoreapp3.0\Threeuple.deps.json
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\bin\Debug\netcoreapp3.0\Threeuple.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\bin\Debug\netcoreapp3.0\Threeuple.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\bin\Debug\netcoreapp3.0\Threeuple.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\bin\Debug\netcoreapp3.0\Threeuple.pdb
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\bin\Debug\netcoreapp3.0\Tuple.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\bin\Debug\netcoreapp3.0\Tuple.pdb
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\obj\Debug\netcoreapp3.0\Threeuple.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\obj\Debug\netcoreapp3.0\Threeuple.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\obj\Debug\netcoreapp3.0\Threeuple.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\obj\Debug\netcoreapp3.0\Threeuple.csproj.CopyComplete
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\obj\Debug\netcoreapp3.0\Threeuple.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\Threeuple\obj\Debug\netcoreapp3.0\Threeuple.pdb
