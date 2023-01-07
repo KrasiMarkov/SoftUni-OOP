@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Exercise_Generics\Tuple\bin\Debug\netcoreapp3.0\Tuple.exe
+C:\Users\Krasi\source\repos\Exercise_Generics\Tuple\bin\Debug\netcoreapp3.0\Tuple.deps.json
+C:\Users\Krasi\source\repos\Exercise_Generics\Tuple\bin\Debug\netcoreapp3.0\Tuple.runtimeconfig.json
+C:\Users\Krasi\source\repos\Exercise_Generics\Tuple\bin\Debug\netcoreapp3.0\Tuple.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Exercise_Generics\Tuple\bin\Debug\netcoreapp3.0\Tuple.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\Tuple\bin\Debug\netcoreapp3.0\Tuple.pdb
+C:\Users\Krasi\source\repos\Exercise_Generics\Tuple\obj\Debug\netcoreapp3.0\Tuple.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Exercise_Generics\Tuple\obj\Debug\netcoreapp3.0\Tuple.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Exercise_Generics\Tuple\obj\Debug\netcoreapp3.0\Tuple.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Exercise_Generics\Tuple\obj\Debug\netcoreapp3.0\Tuple.dll
+C:\Users\Krasi\source\repos\Exercise_Generics\Tuple\obj\Debug\netcoreapp3.0\Tuple.pdb
