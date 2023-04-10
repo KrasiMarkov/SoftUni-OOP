@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Comparing Objects\bin\Debug\netcoreapp3.0\Comparing Objects.exe
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Comparing Objects\bin\Debug\netcoreapp3.0\Comparing Objects.deps.json
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Comparing Objects\bin\Debug\netcoreapp3.0\Comparing Objects.runtimeconfig.json
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Comparing Objects\bin\Debug\netcoreapp3.0\Comparing Objects.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Comparing Objects\bin\Debug\netcoreapp3.0\Comparing Objects.dll
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Comparing Objects\bin\Debug\netcoreapp3.0\Comparing Objects.pdb
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Comparing Objects\obj\Debug\netcoreapp3.0\Comparing Objects.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Comparing Objects\obj\Debug\netcoreapp3.0\Comparing Objects.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Comparing Objects\obj\Debug\netcoreapp3.0\Comparing Objects.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Comparing Objects\obj\Debug\netcoreapp3.0\Comparing Objects.dll
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Comparing Objects\obj\Debug\netcoreapp3.0\Comparing Objects.pdb
