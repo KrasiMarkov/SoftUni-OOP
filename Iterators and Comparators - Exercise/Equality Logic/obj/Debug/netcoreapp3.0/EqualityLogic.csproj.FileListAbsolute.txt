@@ -1,0 +1,11 @@
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Equality Logic\bin\Debug\netcoreapp3.0\EqualityLogic.exe
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Equality Logic\bin\Debug\netcoreapp3.0\EqualityLogic.deps.json
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Equality Logic\bin\Debug\netcoreapp3.0\EqualityLogic.runtimeconfig.json
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Equality Logic\bin\Debug\netcoreapp3.0\EqualityLogic.runtimeconfig.dev.json
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Equality Logic\bin\Debug\netcoreapp3.0\EqualityLogic.dll
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Equality Logic\bin\Debug\netcoreapp3.0\EqualityLogic.pdb
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Equality Logic\obj\Debug\netcoreapp3.0\EqualityLogic.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Equality Logic\obj\Debug\netcoreapp3.0\EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Equality Logic\obj\Debug\netcoreapp3.0\EqualityLogic.AssemblyInfo.cs
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Equality Logic\obj\Debug\netcoreapp3.0\EqualityLogic.dll
+C:\Users\Krasi\source\repos\Iterators and Comparators - Exercise\Equality Logic\obj\Debug\netcoreapp3.0\EqualityLogic.pdb
